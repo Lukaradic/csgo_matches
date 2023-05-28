@@ -1,0 +1,11 @@
+.matches {
+    .match__single {
+        display: flex;
+        gap: 24px;
+        max-width: 100%;
+        border: 1px solid #eee;
+        border-radius: 15px;
+        padding: 24px 16px;
+        margin: 12px;
+    }
+}
